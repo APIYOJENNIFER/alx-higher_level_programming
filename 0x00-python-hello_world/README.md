@@ -7,3 +7,4 @@
 6. Print Welcome to Holberton School!
 7. Copy cut and paste strings
 8. Create a new sentence
+9. Print "The Zen of Python"
