@@ -4,3 +4,4 @@
 3. Print integer stored in a variable followed by string
 4. Print the float stored in the variable number with a precision of 2 digits
 5. Print 3 times a string stored in the variable str, followed by its first 9 characters
+6. Print Welcome to Holberton School!
