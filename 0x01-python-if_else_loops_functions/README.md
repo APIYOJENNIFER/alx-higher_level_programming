@@ -8,3 +8,4 @@
 7. Function that checks for lowercase character
 8. Print a string in uppercase
 9. Print the last digit of a number
+10. Function that adds two integers and returns the result
