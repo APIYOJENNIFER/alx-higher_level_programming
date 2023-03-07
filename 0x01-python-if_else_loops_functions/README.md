@@ -7,3 +7,4 @@
 6. Print all possible different combinations of two digits
 7. Function that checks for lowercase character
 8. Print a string in uppercase
+9. Print the last digit of a number
