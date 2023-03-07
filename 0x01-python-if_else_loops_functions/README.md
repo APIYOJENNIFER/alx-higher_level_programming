@@ -9,3 +9,4 @@
 8. Print a string in uppercase
 9. Print the last digit of a number
 10. Function that adds two integers and returns the result
+11. Function that computes a to the power of b and return the value
