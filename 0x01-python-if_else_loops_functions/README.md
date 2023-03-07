@@ -6,3 +6,4 @@
 5. print numbers from 0 to 99 separated by commas except the last one
 6. Print all possible different combinations of two digits
 7. Function that checks for lowercase character
+8. Print a string in uppercase
