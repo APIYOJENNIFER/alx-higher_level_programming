@@ -9,4 +9,5 @@
 8. Create a new sentence
 9. Print "The Zen of Python"
 11. Use write function from sys module to print string
+12. Script that compiles a Python script file
 13. Python function that works the same as given python bytecode
