@@ -13,3 +13,4 @@
 12. Function that prints the numbers from 1 to 100 with Fizz for multiples of 3 and Buzz for multiples of 5 and FizzBuzz for multiples of both
 14. Print  the ASCII alphabet, in reverse order, alternating lowercase and uppercase
 15. Function that creates a copy of the string, removing the character at the position n
+16. Python function def magic_calculation(a, b, c): that does exactly the same as the Python bytecode
