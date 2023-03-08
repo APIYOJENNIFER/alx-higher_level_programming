@@ -10,3 +10,4 @@
 9. Print the last digit of a number
 10. Function that adds two integers and returns the result
 11. Function that computes a to the power of b and return the value
+12. Function that prints the numbers from 1 to 100 with Fizz for multiples of 3 and Buzz for multiples of 5 and FizzBuzz for multiples of both
