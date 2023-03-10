@@ -9,7 +9,7 @@ def main():
         print("{} arguments:".format(len(argv) - 1))
     for i in range(len(argv)):
         if i > 0:
-            print("{}: {} ".format(i, argv[i]))
+            print("{}: {}".format(i, argv[i]))
 
 
 if __name__ == "__main__":
