@@ -6,4 +6,5 @@
 5. Function that removes all characters c and C from a string
 6. Function that prints a matrix of integers
 7. Function that adds 2 tuples
+8. Function that returns a tuple with the length of a string and its first character
 
