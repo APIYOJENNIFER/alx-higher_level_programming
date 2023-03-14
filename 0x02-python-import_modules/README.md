@@ -5,4 +5,4 @@
 5. Program that imports the variable a from the file and prints its value.
 6. Program that imports all functions from the file and handles basic operations
 7. Program that prints #pythoniscool
-
+8. Function that does the same as the bytecode8. Function that does the same as the bytecode8. Function that does the same as the bytecode8. Function that does the same as the bytecode8. Function that does the same as the bytecode8. Function that does the same as the bytecode8. Function that does the same as the bytecode8. Function that does the same as the bytecode
