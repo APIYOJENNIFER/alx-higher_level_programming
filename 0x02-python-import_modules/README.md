@@ -4,4 +4,5 @@
 3. Program that prints the result of the addition of all arguments
 5. Program that imports the variable a from the file and prints its value.
 6. Program that imports all functions from the file and handles basic operations
+7. Program that prints #pythoniscool
 
