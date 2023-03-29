@@ -4,4 +4,5 @@
 3. Function that divides 2 integers and prints the result
 4. Function that divides element by element 2 lists
 5. Function that raises a type exception
+6. Function that raises a name exception with a message
 
